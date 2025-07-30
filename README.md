@@ -19,11 +19,3 @@ This is a **simple AI-based image classifier** built with **Streamlit** that pre
 - **NumPy** (Numerical operations)
 - **Pickle** (Model loading)
 
----
-
-## 📦 Installation
-
-1️⃣ **Clone the repository**
-```bash
-git clone https://github.com/yourusername/pet-classifier.git
-cd pet-classifier
