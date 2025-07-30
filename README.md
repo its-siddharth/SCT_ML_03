@@ -19,3 +19,6 @@ This is a **simple AI-based image classifier** built with **Streamlit** that pre
 - **NumPy** (Numerical operations)
 - **Pickle** (Model loading)
 
+## 📂 Dataset
+We trained the model using the **Kaggle Cats and Dogs Dataset**:  
+https://www.kaggle.com/c/dogs-vs-cats/data
